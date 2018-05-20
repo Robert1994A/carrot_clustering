@@ -37,7 +37,7 @@
 						</div>
 						<div class="form-group">
 							<label>Number of documents:</label> <select class="form-control"
-								name="perPage">
+								name="pageSize">
 								<option value="50" selected="selected">50</option>
 								<option value="100">100</option>
 								<option value="300">300</option>
